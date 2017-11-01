@@ -1,1 +1,1 @@
-https://travis-ci.org/e8c/Travis.svg?branch=master
+(https://travis-ci.org/e8c/Travis.svg?branch=master)
